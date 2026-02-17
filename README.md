@@ -45,7 +45,3 @@ Key areas include:
 4. Correlate findings
 5. Document investigation results
 
----
-
-## Project Status
-Project setup in progress — PCAP analysis and detection case studies will be added incrementally.

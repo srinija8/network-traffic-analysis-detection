@@ -18,6 +18,6 @@ Wireshark DNS traffic analysis showing query and response inspection used during
 
 Wireshark TCP stream analysis showing full client-server communication used during network investigation.
 
-![TCP Stream Analysis](tcp-stream-analysis.png)
+![TCP Stream Analysis](tcp-stream-analysis.jpg)
 
 - Network investigation workflow

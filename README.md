@@ -1,4 +1,4 @@
-# 🌐 Network Traffic Analysis & Detection Project
+# Network Traffic Analysis & Detection Project
 
 ## Overview
 This project focuses on analyzing network traffic to identify suspicious activity, understand attack patterns, and develop detection workflows used in Security Operations Centers (SOC).
@@ -48,4 +48,4 @@ Key areas include:
 ---
 
 ## Project Status
-🚧 Project setup in progress — PCAP analysis and detection case studies will be added incrementally.
+Project setup in progress — PCAP analysis and detection case studies will be added incrementally.

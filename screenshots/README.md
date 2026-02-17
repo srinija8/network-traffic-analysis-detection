@@ -14,5 +14,10 @@ Wireshark DNS traffic analysis showing query and response inspection used during
 
 ![DNS Request Inspection](dns-request-inspection.jpg)
 
-- TCP stream analysis
+## TCP Stream Analysis
+
+Wireshark TCP stream analysis showing full client-server communication used during network investigation.
+
+![TCP Stream Analysis](tcp-stream-analysis.png)
+
 - Network investigation workflow

@@ -2,7 +2,12 @@
 
 Screenshots to be added:
 
-- Packet capture analysis
+## Packet Capture Analysis
+
+Wireshark packet capture showing TCP/TLS traffic analysis with protocol inspection and packet-level details.
+
+![Packet Capture Analysis](packet-capture-analysis.png)
+
 - DNS request inspection
 - TCP stream analysis
 - Network investigation workflow

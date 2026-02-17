@@ -20,4 +20,9 @@ Wireshark TCP stream analysis showing full client-server communication used duri
 
 ![TCP Stream Analysis](tcp-stream-analysis.jpg)
 
-- Network investigation workflow
+## Network Investigation Workflow
+
+Wireshark investigation workflow showing multi-protocol traffic analysis with packet inspection and protocol-level investigation.
+
+![Network Investigation Workflow](network-investigation-workflow.jpg)
+

@@ -8,6 +8,11 @@ Wireshark packet capture showing TCP/TLS traffic analysis with protocol inspecti
 
 ![Packet Capture Analysis](packet-capture-analysis.jpg)
 
-- DNS request inspection
+## DNS Request Inspection
+
+Wireshark DNS traffic analysis showing query and response inspection used during network investigations.
+
+![DNS Request Inspection](dns-request-inspection.jpg)
+
 - TCP stream analysis
 - Network investigation workflow

@@ -16,7 +16,6 @@ Key areas include:
 ## Tools & Technologies
 - Wireshark
 - TCPdump
-- Zeek (planned)
 - Python (analysis scripts)
 - MITRE ATT&CK (network techniques)
 
